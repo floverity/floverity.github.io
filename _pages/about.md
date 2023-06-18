@@ -14,7 +14,7 @@ My research interests centre on type theory and categorical logic.
 
 Presently, I am thinking about categorical semantics for a particular kind of modal type theory. 
 
-Previously, I worked on applications of type theory to the problems of
+Previously, I worked on applications of type theory, specifically, the problems of
 * formal semantics for natural language, and
-* trust in the outcome of electronic vote counting in an election. 
+* trust in the outcome of electronic vote counting in elections. 
 

@@ -90,23 +90,14 @@ author:
   email            : "florrie.verity@anu.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
-  bandcamp	   : "https://ladydenman.bandcamp.com/"
+#  bandcamp	   : "https://ladydenman.bandcamp.com/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  github           : "https://github.com/floverity"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :

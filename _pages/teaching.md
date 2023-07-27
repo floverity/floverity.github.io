@@ -5,10 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Guest lecturer
+# Australian National University
+## Guest lecturer
+- COMP1130 Programming as Problem Solving (Advanced), Semester 1 2022 
 
-# Tutor
-		  
-- Florrie Verity. Implicatures in continuation-based dynamic semantics. In Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue, London, United Kingdom, September 2019. SEMDIAL.
-- Florrie Verity and Dirk Pattinson. Formally verified invariants of vote counting schemes. In Proceedings of the Australasian Computer Science Week Multiconference, pages 31:1–31:10, 2017
-- Florrie Verity, Dirk Pattinson, and Rajeev {Gor\'e}. Modular synthesis of provably correct vote counting programs. In Robert Krimmer and Melanie Volkamer, editors, Proceedings of The International Conference on Electronic Voting, pages 55-70, 2016.
+## Tutor
+- COMP4630 Overview of Logic and Compuation, Semester 2 2022
+- Mathematical Analysis 1 and 2 (intensive courses for Shandong University), Summer Session 2020
+- COMP1600 Foundations of Computing, Semester 2 2020
+- MATH2301 Games, Graphs and Machines, Semester 2 2020
+- MATH1005 Discrete Mathematical Models, Semester 1 2020
+- MATH2222 Introduction to Mathematical Thinking: Problem-Solving and Proofs, Semester 1 2019
+ 

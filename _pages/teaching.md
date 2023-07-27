@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "Talks"
-permalink: /talks/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}	
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
-	
+# Guest lecturer
+
+# Tutor
 		  
 - Florrie Verity. Implicatures in continuation-based dynamic semantics. In Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue, London, United Kingdom, September 2019. SEMDIAL.
 - Florrie Verity and Dirk Pattinson. Formally verified invariants of vote counting schemes. In Proceedings of the Australasian Computer Science Week Multiconference, pages 31:1–31:10, 2017

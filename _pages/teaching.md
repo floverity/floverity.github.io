@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Australian National University
-## Guest lecturer
+## Australian National University
+### Guest lecturer
 - COMP1130 Programming as Problem Solving (Advanced), Semester 1 2022 
 
-## Tutor
+### Tutor
 - COMP4630 Overview of Logic and Compuation, Semester 2 2022
 - Mathematical Analysis 1 and 2 (intensive courses for Shandong University), Summer Session 2020
 - COMP1600 Foundations of Computing, Semester 2 2020

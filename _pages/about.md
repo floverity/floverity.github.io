@@ -12,9 +12,9 @@ I am a PhD student in the School of Computing at the Australian National Univers
 
 My research interests centre on (homotopy) type theory and categorical logic.
 
-Presently, I am thinking about categorical semantics for a particular kind of modal type theory. 
+Presently, I am thinking about categorical semantics for a particular kind of modal type theory (see [Talks](https://floverity.github.io/talks/)). 
 
 Previously, I worked on applications of type theory, specifically to the problems of
 * formal semantics for natural language, and
-* trust in the outcome of electronic vote counting for elections. 
+* trust in the outcome of electronic vote counting in elections (see [Publications](https://floverity.github.io/publications/)). 
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the School of Computing at the Australian National University, co-supervised by [Yoshihiro Maruyama](https://comp.anu.edu.au/people/yoshihiro-maruyama/) (Australian National University) and [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/Nicola.Gambino/) (University of Manchester).
+I am a PhD student in the School of Computing at the Australian National University, co-supervised by [Yoshihiro Maruyama](https://sites.google.com/view/yoshi-maruyama/home) (Australian National University) and [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/Nicola.Gambino/) (University of Manchester).
 
 My research interests centre on (homotopy) type theory and categorical logic.
 

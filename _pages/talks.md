@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [Fibred models of dual-context type theory and internal universes in models of HoTT](https://floverity.github.io/files/uk_talk_september_2025.pdf)
+     - [University of Cambridge Logic and Semantics Seminar](https://talks.cam.ac.uk/talk/index/236077). September 26, 2025.
+     - University of Manchester Category Theory Working Group. September 18, 2025.
+     - University of Nottingham Functional Programming Lunch. September 16, 2025. 
+- [Homotopy type theory: models and modalities](https://floverity.github.io/files/blc_2025.pdf). British Logic Colloquium Annual Meeting. September 11, 2025.
 - [Fibred models of crisp type theory and Kripke-Joyal forcing](https://floverity.github.io/files/phd_final_seminar.pdf). Final PhD presentation. Foundations Cluster Seminar, School of Computing, Australian National University. April 14, 2025.   
 - [Modal hyperdoctrine: non-normal and higher-order extensions](https://floverity.github.io/files/modal_hyperdoctrine_wollic_talk.pdf). Logic, Language, Information, and Computation: 30th International Workshop, WoLLIC 2024, Bern, Switzerland. June 10--13, 2024. 
 - [Who cares about modal type theory?](https://floverity.github.io/files/modaltt_foundations_seminar.pdf). Foundations Cluster Seminar, School of Computing, Australian National University. November 13, 2023. 
